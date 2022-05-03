@@ -2,7 +2,7 @@
 
 Online Business Engineering: Web Design/Development Systems
 
-> Just another Open Source org looking to make our future selves happier through robust and flexible tools for web wizards and dev ninja pros to work quicker and achieve more, while trying to minimize getting ourselves stuck in corners. That just triggers more work and less happy trees. Nobody has time for that!
+> Just another Open Source org looking to make our future selves happier through robust and flexible tools for web wizards and dev ninjas to work quicker and achieve more, while trying to minimize getting ourselves stuck in corners. That just triggers more work and less happy trees. Nobody has time for that!
 
 <!--
 
