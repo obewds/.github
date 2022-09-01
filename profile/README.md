@@ -2,4 +2,4 @@
 
 Online Business Engineering: Web Design/Development Systems
 
-> Just another Open Source org with aspirations to give our future selves more happiness through robust and flexible tools for web designers and developers.
+> Just another Open Source org looking to give our future selves a better experience through robust and flexible tools for web designers and developers.
